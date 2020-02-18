@@ -20,6 +20,13 @@
 
 ## Contribution  Open to all Dsc laikipia Team
 
+Hello Coders lets contribute to this pages By:
+
+- Writing Blogs about Tech
+- Providing Resources
+- Starting StartUps and Work as teams
+
+
 
 ## Linsence
 
